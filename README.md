@@ -30,4 +30,4 @@ I am a person who can adapt quickly and likes to learn new things. I am not a ta
 
 ### Badges
 
-<a href="https://github.com/Nagamiuko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagamiuko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Nagamiuko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagamiuko&layout=compact&langs_count=6&hide=html,css&theme=radical" /></a>
